@@ -116,7 +116,7 @@ pip install nltk==3.9.1
 
 ############ Running The Source Code
 
-Copy and paste the following command into command prompt to begin finding Association Rules:
+Copy and paste the following command into command prompt to begin
 
 python vitz_john_final_term_proj.py
 ##########################################################################################################################
