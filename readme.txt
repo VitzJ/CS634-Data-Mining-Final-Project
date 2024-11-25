@@ -11,7 +11,7 @@ test data set     : vitz_john_finaltermproj_test_set.csv
 python executable : vitz_john_finaltermproj.py executable
 jupyter notebook  : vitz_john_finaltermproj.ipynb noteboook
 
-Added After Submission (Doesn't count):
+Added After Submission Deadline due to rushing (Doesn't count):
 
 report pdf file (same as jupyter notebook file) : vitz_john_finaltermproj.pdf
 
