@@ -122,5 +122,5 @@ pip install nltk==3.9.1
 
 Copy and paste the following command into command prompt to begin
 
-python vitz_john_final_term_proj.py
+python vitz_john_finaltermproj.py
 ##########################################################################################################################
