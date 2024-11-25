@@ -11,6 +11,10 @@ test data set     : vitz_john_finaltermproj_test_set.csv
 python executable : vitz_john_finaltermproj.py executable
 jupyter notebook  : vitz_john_finaltermproj.ipynb noteboook
 
+Added After Submission (Doesn't count):
+
+report pdf file (same as jupyter notebook file) : vitz_john_finaltermproj.pdf
+
 
 The python script : vitz_john_finaltermproj.py was tested in the following versions:
 
